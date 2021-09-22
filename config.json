@@ -1,0 +1,13 @@
+{
+    "connectionString": "mongodb+srv://bugs_user:xGSK2PS9YGFHvL1O@cluster0.w33si.mongodb.net/jkbugs?retryWrites=true&w=majority",
+    "secret": "myspecialsecretaboutcatsandjazz",
+    "emailFrom": "admin@jkbugs.joeknowles.com",
+    "smtpOptions": {
+        "host": "webhosting2011.is.cc",
+        "port": 465,
+        "auth": {
+            "user": "admin@jkbugs.joeknowles.com",
+            "pass": "YcF0dMeOso@V"
+        }
+    }
+}
